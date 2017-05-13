@@ -7,15 +7,15 @@ Hi! By incorporating this little bit of code into your project, you will be able
 Forking and cloning from this repository
 
 ## Usage
-### Plug It In
+#### Plug It In
 ```
 <script src="/path/to/scrollspy.js"></script>
 ```
 
-### Initialize triggers
+#### Initialize triggers
 Add the class "scroll-spy-trigger" and the attribute data-target(which will receive the id preceded by a hashsymbol of the element you would like to scroll to) to the elements you would like to activate the smooth scrolling feature
 
-### Set Targets
+#### Set Targets
 For whichever element you want to be shown at the top of your page, set the id that corresponds with it triggers data-target attribute.
 
 ## Example
