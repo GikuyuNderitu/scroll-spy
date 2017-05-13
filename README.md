@@ -28,3 +28,6 @@ For whichever element you want to be shown at the top of your page, set the id t
 ```
 ## Summary
 That's really all there is to it! Go out there and enjoy!
+
+## Caveats
+Not yet cross-browser compliant. If your desire is to target <= IE 9, I would recommend you to not use this project in production.
