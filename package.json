@@ -1,0 +1,26 @@
+{
+  "name": "scrollspy-atypicaldev",
+  "version": "0.0.1",
+  "description": "This package will provide a smooth scrolling experience for your user just by adding a couple classes and ids to  your HTML",
+  "main": "index.js",
+  "repository": "https://github.com/GikuyuNderitu/scroll-spy",
+  "author": "Gikuyu <gikuyunderitu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dist": "webpack"
+  },
+  "module": "dist/",
+  "files": [
+    "dist/"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "webpack": "^2.5.1"
+  },
+  "keywords": [
+    "scroll",
+    "smooth",
+    "DOM"
+  ]
+}
